@@ -1,6 +1,7 @@
 # send-email-using-python
 You are able to send email using python. No need to open gmail dashboard again.
-Download Python
+
+*Download Python*
 https://www.python.org/downloads/
 Application of Python
 Web Development
