@@ -5,13 +5,13 @@ You are able to send email using python. No need to open gmail dashboard again.
 https://www.python.org/downloads/
 
 # Application of Python
-  Web Development
-  Game Development
-  ML and AI
-  Data Science and Data Visualization
-  Desktop GUI
-  Web Scraping
-  Automate daily tasks etc.
+  1. Web Development
+  2. Game Development
+  3. ML and AI
+  4. Data Science and Data Visualization
+  5. Desktop GUI
+  6. Web Scraping
+  7. Automate daily tasks etc.
   
 # How to send email using Python
 
