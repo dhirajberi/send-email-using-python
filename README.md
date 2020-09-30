@@ -1,4 +1,4 @@
-# send-email-using-python
+# Send Email Using Python
 You are able to send email using python. No need to open gmail dashboard again.
 
 # Download Python 
@@ -12,8 +12,6 @@ https://www.python.org/downloads/
   5. Desktop GUI
   6. Web Scraping
   7. Automate daily tasks etc.
-  
-# How to send email using Python
 
 # Requirements
   1. Laptop/PC
@@ -37,5 +35,3 @@ https://www.python.org/downloads/
   7. Disconnect.
 
 Thank You!
-Regards,
-Dhiraj Beri.
